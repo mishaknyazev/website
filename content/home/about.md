@@ -12,31 +12,30 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Генеративная грамматика",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+    "Generative grammar",
+    "Experimental syntax",
+    "Field linguistics", 
+    "History, philosophy, sociology of science",
+    "Digital Humanities"
+]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Linguistics"
+  institution = "Utrecht University"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Specialist (=MA) in Philology"
+  institution = "St. Petersburg State University"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
-# Biography
+# Short bio
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Mikhail was born in Leningrad, USSR in 1987.
+In 2009, he graduated (cum laude) from the Department of General Linguistics, St. Petersburg State University (supervisor Sergey Say).
+In 2016, he defended his PhD dissertation [*Licensing clausal complements: The case of Russian čto-clauses*](http://www.lotpublications.nl/licensing-clausal-complements) (supervisor Eric Reuland) at Utrecht institute of Linguistics OTS.
+In 2014, he started working as an assistant lecturer at the Department of General Linguistics, St. Petersburg State University.
+In 2016, he joined the Department of Comparative Literature and Linguistics, Higher School of Economics in Saint Petersburg as a senior lecturer.

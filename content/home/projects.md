@@ -26,7 +26,7 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
+  name = "blah"
   tag = ".deep-learning"
 
 [[filter]]
@@ -34,4 +34,6 @@ view = 1
   tag = ".demo"
 
 +++
+
+blah-blah
 

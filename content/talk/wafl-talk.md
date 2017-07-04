@@ -1,11 +1,11 @@
 +++
-date = "2017-01-01T00:00:00"
-title = "Example Talk"
+date = "2015-08-23T00:00:00"
+title = "Verbal complementizers in Kalmyk"
 abstract = ""
 abstract_short = ""
-event = "Hugo Academic Theme Conference"
+event = "Workshop on Formal Altaic Linguistics (WAFL 9)"
 event_url = "https://example.org"
-location = "London, United Kingdom"
+location = "Cornell University, Ithaca, NY, USA"
 
 selected = false
 math = true
@@ -15,9 +15,9 @@ url_slides = ""
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
 

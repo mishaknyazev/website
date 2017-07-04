@@ -19,13 +19,13 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Михаил Князев"
-  role = "лингвист"
-  organization = "Stanford University"
+  name = "Mikhail Knyazev"
+  role = "linguist"
+  organization = ""
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
+  email = "misha.knjazev@gmail.com"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
@@ -156,7 +156,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
@@ -179,6 +179,48 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 6
 
+[[menu.main]]
+  name = "CV"
+  url = "#contact"
+  weight = 7
+
+
+[[languages.ru.menu.main]]
+  name = "Домой"
+  url = "#about"
+  weight = 1
+
+[[languages.ru.menu.main]]
+  name = "Публикации"
+  url = "#publications_selected"
+  weight = 2
+
+[[languages.ru.menu.main]]
+  name = "Посты"
+  url = "#posts"
+  weight = 3
+
+[[languages.ru.menu.main]]
+  name = "Проекты"
+  url = "#projects"
+  weight = 4
+
+[[languages.ru.menu.main]]
+  name = "Преподавание"
+  url = "#teaching"
+  weight = 5
+
+[[languages.ru.menu.main]]
+  name = "Контакты"
+  url = "#contact"
+  weight = 6
+
+[[languages.ru.menu.main]]
+  name = "CV"
+  url = "#contact"
+  weight = 7
+
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"
@@ -189,5 +231,6 @@ defaultContentLanguageInSubdir = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[languages.en]
+ [languages.en]
   languageCode = "en-us"
+
