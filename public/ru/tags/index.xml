@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mikhail Knyazev</title>
+    <link>https://mishaknyazev.github.io/ru/tags/</link>
+    <description>Recent content in Tags on Mikhail Knyazev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <atom:link href="/ru/tags/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
