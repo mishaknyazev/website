@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikhail Knyazev on Mikhail Knyazev</title>
+    <link>https://mishaknyazev.github.io/</link>
+    <description>Recent content in Mikhail Knyazev on Mikhail Knyazev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Superadditivity effects in the distribution of čto-clause complements in Russian: A grammatical constraint obscured by intermediate acceptability</title>
+      <link>https://mishaknyazev.github.io/talk/fasl-talk/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mishaknyazev.github.io/talk/fasl-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>blah</title>
+      <link>https://mishaknyazev.github.io/project/grammar-and-philosophy/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mishaknyazev.github.io/project/grammar-and-philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blah</title>
+      <link>https://mishaknyazev.github.io/post/joint-projects/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://mishaknyazev.github.io/post/joint-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying a weak grammatical violation with experimental syntax methods: The case of sentential complements of nouns with the complementizer čto</title>
+      <link>https://mishaknyazev.github.io/publication/paper-rhema/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mishaknyazev.github.io/publication/paper-rhema/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verbal complementizers in Kalmyk</title>
+      <link>https://mishaknyazev.github.io/talk/wafl-talk/</link>
+      <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mishaknyazev.github.io/talk/wafl-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Complementizers in Kalmyk</title>
+      <link>https://mishaknyazev.github.io/publication/paper-kalmyk/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mishaknyazev.github.io/publication/paper-kalmyk/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
